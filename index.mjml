@@ -1,0 +1,287 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="left" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body background-color="#eee">
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px" align="right" font-size="8px">view in browser</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="100px" align="center" padding="0px 30px" src="hng-logo.svg" /></mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px"><b>Here Are Your Details For Check-In At Southern Sun Ikoyi Hotel</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px"><b>Hello Mr. Abayomi Abidakum,</b><br/> These are the details of your check-in at Southern sun ikoyi Hotel , Ikoyi, Lagos, on Thur 17th January, If you'll be checking-in late, please give us a call before 5 PM.<br/><br/> Please feel free to give
+          us a call if anything is unclear or if you run into any difficulty. Don’t forget to let us know how your stay was by leaving a review
+
+        </mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px">Booking Details</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#828282" padding="10px 30px">Guest Name</mj-text>
+
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#828282" padding="10px 30px">Mr. Abayomi Abidakum</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px">Hotel Name</mj-text>
+
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#828282" padding="10px 30px">Southern sun ikoyi Hotel (view map)</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px">Location</mj-text>
+
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#828282" padding="10px 30px">47 Alfred Rewane Road ikoti, Lagos</mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px">Booking ID</mj-text>
+
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#1eafe9" padding="10px 30px">1084392023</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px"><b>Shedule Details</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">Check-in</mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px"><b>Thur 17th January</b></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">Check-out</mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px"><b>Tues 22th January</b></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">Guest(s)</mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px"><b>1</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px">Booking Details</mj-text>
+        <mj-text line-height="20px" color="#828282" padding="10px 30px">Red wine, Breakfast in bed</mj-text>
+
+      </mj-column>
+
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#333" padding="10px 30px"><b>Payment</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">Standard Room x 2 Nights</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">#5,000.00</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">Charges</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">#550.00</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#00aeff"><mj-group>
+      <mj-column>
+        <mj-text color="#fff" padding="10px 30px"><b>Total</b></mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding="10px 30px" color="#fff" align="right">#5,550.00</mj-text>
+      </mj-column></mj-group>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <b>07008808800</b> or use the buttons below</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-button font-family="Helvetica" background-color="#084482" color="white" width="210px" align="center">
+          CONFIRM RESERVATION
+        </mj-button>
+        <mj-text>
+          <hr/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">Best Regards,<br/> <b>Opeyemi Jegede</b><br/>Booking Team</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text line-height="20px" color="#1eafe9" padding="10px 30px"><b>Email: opeyemi@hotels.ng<br/>Phone: 0700808800</b></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="rgba(0, 174, 255, 0.29)">
+      <mj-group>
+      <mj-column>
+        <mj-text font-size="9px" color="#00AEFF">Sell more rooms and manage your hotel information on multiple OTAs with our Android app </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#00AEFF" font-size="12px" align="right"><b>Download</b></mj-text>
+      </mj-column></mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image width="50" align="left" padding="0px 30px" src="hng-logo.svg" /></mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px">hotels.ng is an online booking agency specialized inhotel booking within Nigeria. We market hotels online an book rooms for clients. Weproffer hotels accomodation solution to the people looking for hotels within an area or particular city.<br/>We
+          provide them with appropriate hotels that match their budget and expectations.<br/></mj-text>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px"><a href="#">Learn more</a></mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px">On Payments</mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px">When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line <a href="#">(+2347008808800)</a> or email us at
+          <a href="#"> reservations@hotels.ng</a></mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px">Late Check-in</mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.</mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px">Refunds & Cancellation</mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time. Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy. Refunds
+          cannot be made on any reservations made on a non-refundable room rate.
+        </mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px">Reservation & Best Price Guarantee</mj-text>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival. Once you place a booking, your reservation is secured, and we'll send you a final confirmation
+          on check-in date. However, the hotel reserves the right to cancel your reservation.
+        </mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px">
+          <hr/>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="0px 30px" font-size="10px">3, Birrel Avenue, Yaba Lagos +234 700 880 8800</mj-text>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px" font-size="10px">Copyrights @ 2017 Hotels.ng. All rights reserved</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
